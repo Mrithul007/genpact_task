@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-14T15:38:07 IST" name="Default suite" finished-at="2023-06-14T15:38:16 IST" duration-ms="8353">
+    <groups>
+    </groups>
+    <test started-at="2023-06-14T15:38:07 IST" name="Default test" finished-at="2023-06-14T15:38:16 IST" duration-ms="8353">
+      <class name="pack.SauceDemo">
+        <test-method signature="DemoProject(java.lang.String,java.lang.String)[pri:0, instance:pack.SauceDemo@4944252c]" started-at="2023-06-14T15:38:08 IST" name="DemoProject" data-provider="testdata" finished-at="2023-06-14T15:38:16 IST" duration-ms="7892" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoProject -->
+      </class> <!-- pack.SauceDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
